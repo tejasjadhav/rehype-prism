@@ -1,0 +1,15 @@
+{
+  "name": "rehype-prism",
+  "version": "1.0.0",
+  "description": "PrismJS integration with Rehype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rehype",
+    "prism"
+  ],
+  "author": "Tejas Jadhav <developer.tejas.jadhav@gmail.com>",
+  "license": "ISC"
+}
